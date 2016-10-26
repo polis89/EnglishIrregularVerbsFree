@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "315770647722",
+    "firebase_url": "https://englishirregularverbsfree.firebaseio.com",
+    "project_id": "englishirregularverbsfree",
+    "storage_bucket": "englishirregularverbsfree.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315770647722:android:6908aa8cb9930b47",
+        "android_client_info": {
+          "package_name": "ru.polis.englishirregularverbsfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315770647722-477115p4g8rf0i3jcffba33tsj090281.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.polis.englishirregularverbsfree",
+            "certificate_hash": "DC1CB585491D275AD43865DD2951E6A22E56C2D4"
+          }
+        },
+        {
+          "client_id": "315770647722-dm4nhaggfktauqh684ufvo3pjcskbpof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC36NAwjq1hiCrgLzTlyVww-Op0GBQT0bU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315770647722-dm4nhaggfktauqh684ufvo3pjcskbpof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
